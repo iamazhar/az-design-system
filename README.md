@@ -19,7 +19,7 @@ Simply clone the repo, select the AZDesignSystemDemo scheme in Xcode to run the 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/iamazhar/AZDesignSystem/blob/master/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
 
 ## Versioning
 

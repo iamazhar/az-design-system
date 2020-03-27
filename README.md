@@ -11,7 +11,7 @@ Not exactly a prerequisite but the build target for the SDK and the demo project
 
 ### Installing
 
-Simply clone the repo, select the AZDesignSystemDemo scheme in Xcode to run the demo on a simulator or a device. Since this project is just starting out, this section will likely see changes in the future.
+Clone the repo, select the AZDesignSystemDemo scheme in Xcode to run the demo on a simulator or a device. Since this project is just starting out, this section will likely see changes in the future.
 
 ## Built With
 
